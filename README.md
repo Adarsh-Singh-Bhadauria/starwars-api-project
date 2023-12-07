@@ -5,7 +5,7 @@
 
 Welcome to the Star Wars API project! This project is built using React.js and Material UI. You can search and sort data of the characters displayed in the table.
 
-Project hosted on -  
+Project hosted on -  https://starwars-api-frontend-project.netlify.app
 
 
 ## Features
