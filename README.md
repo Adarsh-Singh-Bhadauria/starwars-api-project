@@ -11,8 +11,11 @@ Project hosted on -  https://starwars-api-frontend-project.netlify.app
 ## Features
 
 ● Used Material UI for the table and React.js for the overall structure of the project.
+
 ● You can search for particular characters in the data.
+
 ● Sorting feature is also added to the table so that data can be sorted according to the given columns.
+
 ● Next and previous buttons are added to traverse along pages in the API data.
 
 ## Installation
